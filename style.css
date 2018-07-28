@@ -1,0 +1,93 @@
+body, html{
+    height: 100%;
+}
+section
+{
+    font-family: 'Abril Fatface', cursive;
+    background-image: url(Website-Design-Background.png); 
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+/* .heading-div
+{
+    background-color: #c45835;
+    margin-bottom: 0;
+    padding: 0;
+} */
+.title
+{
+    color: #f7f4f4;
+    font-size: 2em;
+}
+.col-lg-5
+{
+    width: 267px;
+    height: 395px;
+    background-color: rgba(0, 0, 0,0.3);
+    color: white;
+    margin-bottom: 185px !important;
+    -webkit-box-shadow: 0px 2px 16px 2px rgba(0,0,0,0.99);
+    -moz-box-shadow: 0px 2px 16px 2px rgba(0,0,0,0.99);
+    box-shadow: 0px 2px 16px 2px rgba(0,0,0,0.99);
+    font-family: 'Song Myung', serif
+
+}
+.form-div
+{
+    padding-top: 28px;
+  
+}
+label
+{
+    font-size: 18px;
+}
+.form-icon{
+    width: 60px;
+    height: 59px;
+    padding: 0px 12px;
+    font-size: 38px;
+    border: 1px solid blanchedalmond;
+    border-radius: 100%;
+    margin: 0px 88px;
+}
+form.bg-light
+{
+    padding: 30px ;
+    font-weight: bold;
+}
+.navbar
+{
+    background-color:rgba(35, 34, 34,0.3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
+.btn 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 36px;
+    padding: 7px 40px;
+    font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
